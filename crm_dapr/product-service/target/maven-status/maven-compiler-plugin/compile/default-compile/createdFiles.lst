@@ -1,0 +1,10 @@
+dev\dberenguer\dapr\product\service\ProductService.class
+dev\dberenguer\dapr\product\dto\ProductDto.class
+dev\dberenguer\dapr\product\converter\ProductToDtoConverter.class
+dev\dberenguer\dapr\product\controller\ProductController.class
+dev\dberenguer\dapr\product\dto\ProductDto$ProductDtoBuilder.class
+dev\dberenguer\dapr\product\model\Product.class
+dev\dberenguer\dapr\product\configuration\ProductDaprConfiguration.class
+dev\dberenguer\dapr\product\model\Product$ProductBuilder.class
+dev\dberenguer\dapr\product\ProductServiceApplication.class
+dev\dberenguer\dapr\product\model\Product$ProductBuilderImpl.class

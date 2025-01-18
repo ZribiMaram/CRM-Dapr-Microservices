@@ -1,0 +1,10 @@
+dev\dberenguer\dapr\checkout\configuration\CheckoutDaprConfiguration.class
+dev\dberenguer\dapr\checkout\dto\ProductDto$ProductDtoBuilder.class
+dev\dberenguer\dapr\checkout\dto\OrderDto.class
+dev\dberenguer\dapr\checkout\dto\OrderItemDto.class
+dev\dberenguer\dapr\checkout\controller\CheckoutController.class
+dev\dberenguer\dapr\checkout\CheckoutServiceApplication.class
+dev\dberenguer\dapr\checkout\dto\OrderItemDto$OrderItemDtoBuilder.class
+dev\dberenguer\dapr\checkout\service\CheckoutService.class
+dev\dberenguer\dapr\checkout\dto\OrderDto$OrderDtoBuilder.class
+dev\dberenguer\dapr\checkout\dto\ProductDto.class

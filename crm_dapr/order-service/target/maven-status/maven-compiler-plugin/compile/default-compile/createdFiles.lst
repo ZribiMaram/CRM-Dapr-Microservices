@@ -1,0 +1,10 @@
+dev\dberenguer\dapr\order\OrderServiceApplication.class
+dev\dberenguer\dapr\order\dto\OrderItemDto$OrderItemDtoBuilder.class
+dev\dberenguer\dapr\order\dto\OrderDto$OrderDtoBuilder.class
+dev\dberenguer\dapr\order\configuration\OrderDaprConfiguration.class
+dev\dberenguer\dapr\order\dto\OrderDto.class
+dev\dberenguer\dapr\order\service\OrderService.class
+dev\dberenguer\dapr\order\controller\OrderController.class
+dev\dberenguer\dapr\order\dto\ProductDto$ProductDtoBuilder.class
+dev\dberenguer\dapr\order\dto\ProductDto.class
+dev\dberenguer\dapr\order\dto\OrderItemDto.class
